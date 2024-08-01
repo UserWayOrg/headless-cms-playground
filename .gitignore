@@ -12,3 +12,8 @@ nbproject
 logs/
 !logs/.gitkeep
 !tests-mocha/logs/
+**/*.log
+
+# 3rd party modules dir
+node_modules/
+bower_components/
