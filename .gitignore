@@ -1,0 +1,14 @@
+# IDE
+.idea
+nbproject
+**/*.iml
+.vscode/
+
+# Environment file
+.env
+!docker/ecs/.env
+
+# Logs dir
+logs/
+!logs/.gitkeep
+!tests-mocha/logs/
